@@ -1,0 +1,21 @@
+------PROYECTO LOGIN JAVA WEB MVC-----
+BD: ORACLE
+LIBRERIA: ojdbc8.jar (NECESARIA PARA LA CONEXION CON ORACLE)
+
+IDE: NETBEAN
+
+VIDEOS:
+PARTE I (OPCION)
+https://www.youtube.com/watch?v=Ta6Wg0Hc5xU
+
+PARTE II
+https://www.youtube.com/watch?v=vFtMqcLJGtc
+
+PARTE V
+https://www.youtube.com/watch?v=oSCqoptjdcU
+
+PARTE VII(OPCION)
+https://www.youtube.com/watch?v=0P9hxJEZk2g&t=594s
+
+INCLUYE: ojdbc8 y la tabla login
+
